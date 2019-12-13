@@ -1,4 +1,4 @@
-# Level up tuts | Redux and React for Everyone
+# Level Up Tuts | Redux and React for Everyone
 
 This is a repository for Level up tuts React and Redux for Everyone Tutorial implmeneted using React Hooks
 
